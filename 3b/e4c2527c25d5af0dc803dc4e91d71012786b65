@@ -1,0 +1,20 @@
+.github/workflows/release.yml
+  s_280878885cfdf9::t_38ff959f7bbd5c 1-49
+  s_280878885cfdf9::t_82c940e6833e2a 50-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3be4c2527c25d5af0dc803dc4e91d71012786b65",
+  "prompts": {},
+  "sessions": {
+    "s_280878885cfdf9": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0eaec-bc1b-7ef1-9c13-478c87522d3e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "pengchenghui <pengchenghui@jtexpress.com>"
+    }
+  }
+}

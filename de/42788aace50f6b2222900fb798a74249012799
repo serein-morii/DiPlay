@@ -1,0 +1,18 @@
+common/src/main/res/values/strings.xml
+  h_d554d32aa9d663 2
+mobile/src/debug/AndroidManifest.xml
+  h_d554d32aa9d663 4
+mobile/src/main/res/values/strings.xml
+  h_d554d32aa9d663 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "de42788aace50f6b2222900fb798a74249012799",
+  "prompts": {},
+  "humans": {
+    "h_d554d32aa9d663": {
+      "author": "pengchenghui <pengchenghui@jtexpress.com>"
+    }
+  }
+}

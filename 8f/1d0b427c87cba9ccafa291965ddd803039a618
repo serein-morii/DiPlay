@@ -1,0 +1,11 @@
+docs/GITHUB_RELEASE.md
+  h_d554d32aa9d663 1
+.github/workflows/release.yml
+  h_d554d32aa9d663 39-40,45,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "8f1d0b427c87cba9ccafa291965ddd803039a618",
+  "prompts": {}
+}

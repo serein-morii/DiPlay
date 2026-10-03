@@ -1,0 +1,50 @@
+README.zh-CN.md
+  h_d554d32aa9d663 1-3
+common/src/main/res/values-zh-rCN/strings.xml
+  h_d554d32aa9d663 92
+.github/workflows/release.yml
+  h_d554d32aa9d663 1-68
+common/src/test/java/com/shilapi/xcertplay/AppLocaleTest.kt
+  h_d554d32aa9d663 62-74
+common/src/main/java/com/shilapi/xcertplay/AppLocale.kt
+  h_d554d32aa9d663 29-57,60,84
+mobile/src/debug/java/com/shilapi/xcertplay/hud/StandaloneHudDemoActivity.kt
+  h_d554d32aa9d663 84
+common/src/main/res/values/strings.xml
+  h_d554d32aa9d663 77
+docs/GITHUB_RELEASE.md
+  h_d554d32aa9d663 1-10
+mobile/build.gradle.kts
+  h_d554d32aa9d663 17
+mobile/src/main/res/values/strings.xml
+  h_d554d32aa9d663 2
+scripts/extract_official_identity.py
+  h_d554d32aa9d663 1-34
+shared/src/main/java/com/shilapi/xcertplay/hud/BydStarterBridge.kt
+  h_d554d32aa9d663 29,39
+scripts/verify_apk_identity.py
+  h_d554d32aa9d663 1-28
+mobile/src/debug/AndroidManifest.xml
+  h_d554d32aa9d663 4
+shared/src/main/java/com/shilapi/xcertplay/orchestration/CarPlayController.kt
+  h_d554d32aa9d663 1244-1245,1247-1249
+shared/src/main/java/com/shilapi/xcertplay/hud/BydClusterBridge.kt
+  h_d554d32aa9d663 44
+shared/src/main/java/com/shilapi/xcertplay/hud/BydFactoryNavigationOutput.kt
+  h_d554d32aa9d663 15
+README.md
+  h_d554d32aa9d663 1,3-5
+shared/src/main/java/com/shilapi/xcertplay/hud/BydStandaloneHudOutput.kt
+  h_d554d32aa9d663 51-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2967b34a3976a57e767dc74c59aa314793a2a9bf",
+  "prompts": {},
+  "humans": {
+    "h_d554d32aa9d663": {
+      "author": "pengchenghui <pengchenghui@jtexpress.com>"
+    }
+  }
+}
